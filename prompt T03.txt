@@ -1,0 +1,2 @@
+buat program bahasa c untuk list pakaian loundry jenis_pakaian,jumlah_pakaian,note,jumlah_seluruh baranag;
+pada "REKAP DAFTAR LOUNDRY "yang kedua ubah menjadi nama yang di input si user 

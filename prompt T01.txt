@@ -1,0 +1,51 @@
+buatlah program bahasa c ,untuk memesan makanan di gambar tersebut,dengan Ucok dan Butet langsung memutuskan untuk memesan, namun mereka terkejut saat melihat ada kupon lebaran yang ditawarkan Mak Roby kepada para pengunjung.
+<p align="center">
+  <img src="image/kupon.png" width="300">
+</p>
+
+“Wah, kalau belanja 100 ribu dapet kupon biru, kalau 200 ribu dapet kupon kuning. Menarik juga nih,” kata Butet sambil menatap penuh minat.
+Ucok yang biasanya lebih santai langsung mengusulkan, “Ayo, kita pesan yang banyak biar dapet kupon warna-warni!”
+Mereka pun memesan makanan dengan porsi yang sesuai dengan perbandingan tubuh mereka. 
+<p align="center">
+  <img src="image/berat.png" width="300">
+</p>
+
+
+Setelah itu mereka memesan makanan dan minuman dimana Mak Roby memasukkan inputan kepada sistem berupa kode menu, beserta porsi dari Butet.
+<p align="center">
+  <img src="image/kode.jpeg" width="300">
+</p>
+
+
+Format Inputan berupa Kode menu di lanjut dengan Porsi Butet
+Perhatikan contoh berikut:
+**Input**
+
+```bash
+NGS 
+[Porsi Butet]
+AP
+[Porsi Butet]
+GG
+[Porsi Butet]
+END
+
+```
+
+
+promt ke 2
+NGS 
+AP
+GG
+END
+
+==============================
+Total Belanja  : Rp 0
+Kupon Didapat  : Tidak Ada (0%)
+Potongan Harga : Rp 0
+------------------------------
+TOTAL BAYAR    : Rp 0
+==============================
+
+
+PERBAIKI lagihasilnya masih salah

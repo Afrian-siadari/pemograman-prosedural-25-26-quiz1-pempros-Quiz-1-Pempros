@@ -1,0 +1,14 @@
+Data nilai siswa disimpan dalam sebuah rak fisik yang tersusun rapat. Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami bagaimana kelompok siswa dipisahkan. 
+Input:
+1.  Jumlah total data (N).
+2.  Deret nilai (n1, n2, …, n).
+3.  Kode kelompok siswa
+
+**Tugas**
+Buatlah program yang mampu menentukan total nilai hanya untuk kelompok yang diminta.
+<p align="center">
+  <img src="image/pola.jpeg" width="300">
+</p>
+
+buat program dalam bahasa C
+tambahkan juga input 1 nama dalam programnya
